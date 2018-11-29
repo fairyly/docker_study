@@ -12,5 +12,13 @@ This error may also indicate that the docker daemon is not running.
 
 ## 解决：
 
+打开新窗口后执行
+```
+@FOR /f "tokens=*" %i IN ('docker-machine env default') DO @%i
 
+default 是docker-machine的name，可以通过docker-machine -ls 查看
+
+
+又根据提示创建 machine
+```
 
