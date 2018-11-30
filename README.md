@@ -16,3 +16,12 @@ stay hungry stay foolish！
 - [Docker Hub:](https://hub.docker.com/)
 
 - [Docker开源：](https://www.docker.com/open-source)
+
+- Docker 国内镜像
+  - [网易加速器：](http://hub-mirror.c.163.com)
+
+  - [官方中国加速器：](https://registry.docker-cn.com)
+
+  - [ustc的镜像：](https://docker.mirrors.ustc.edu.cn)
+
+  - [daocloud：（注册后使用）](https://www.daocloud.io/mirror#accelerator-doc)
