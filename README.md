@@ -6,6 +6,8 @@ docker_study
 stay hungry stay foolish！
 
 >老薛主机优惠购买：https://my.laoxuehost.com/aff.php?aff=5336
+>首次折扣25%优惠码：yue666
+>终身折扣15%优惠码：yue015
 
 ## 参考
 - [Docker —— 从入门到实践](https://github.com/yeasy/docker_practice)
