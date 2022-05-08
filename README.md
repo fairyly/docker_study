@@ -5,6 +5,8 @@ docker_study
 
 stay hungry stay foolish！
 
+>老薛主机优惠购买：https://my.laoxuehost.com/aff.php?aff=5336
+
 ## 参考
 - [Docker —— 从入门到实践](https://github.com/yeasy/docker_practice)
   - [Gitbook](https://yeasy.gitbooks.io/docker_practice/content/)
